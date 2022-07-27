@@ -2,7 +2,7 @@ import React from "react";
 
 function Header(){
     return (<header>
-    <h1 className="header">Hello Keeper</h1>
+    <h1 className="header">Keeper App</h1>
     </header>);
 }
 
